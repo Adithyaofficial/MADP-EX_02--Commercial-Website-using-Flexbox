@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date:
+## Date: 11.08.2025
 
 ## AIM
 To create a commercial website using CSS Flexbox.
@@ -247,8 +247,9 @@ body {
 }
 ```
 ## OUTPUT
-"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-08-12 024205.png"
-"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2025-08-12 024244.png"
+<img width="1892" height="540" alt="Screenshot 2025-08-12 024205" src="https://github.com/user-attachments/assets/5d801c6d-6805-44c9-bb63-a954b81670b7" />
+<img width="1891" height="821" alt="Screenshot 2025-08-12 024244" src="https://github.com/user-attachments/assets/4374f131-6830-4c77-aa62-813dca5c4394" />
+
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
